@@ -1,1 +1,63 @@
-Air-quality-model
+# Air Quality Model
+
+## Overview
+
+This project contains a Jupyter notebook for air quality forecasting and analysis. The notebook implements machine learning models to predict air quality metrics and provides data visualization and analysis tools.
+
+## Project Structure
+
+```
+Air-quality-model/
+├── notebook/
+│   └── air_quality_forecasting_Mugisha_Kenny_Kevin.ipynb
+└── README.md
+```
+
+## Prerequisites
+
+To run this project, you'll need:
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Required Python packages (install using pip):
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn
+  ```
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone [repository-url]
+   cd Air-quality-model
+   ```
+
+2. Open the Jupyter notebook:
+   ```bash
+   jupyter notebook notebook/air_quality_forecasting_Mugisha_Kenny_Kevin.ipynb
+   ```
+
+## Features
+
+- Air quality data analysis and visualization
+- Machine learning models for air quality forecasting
+- Data preprocessing and feature engineering
+- Model evaluation and performance metrics
+
+## Usage
+
+1. Open the notebook in Jupyter
+2. Run the cells sequentially to:
+   - Load and preprocess the data
+   - Perform exploratory data analysis
+   - Train and evaluate models
+   - Generate predictions and visualizations
+
+## Contributing
+
+Feel free to submit issues and enhancement requests.
+
+## Author
+
+Mugisha Kenny Kevin
